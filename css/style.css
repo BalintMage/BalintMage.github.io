@@ -1,0 +1,47 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h4 {
+    color: rgb(207, 3, 30);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.content {
+    color: grey;
+    max-width:75%;
+    text-align: justify;
+}
+#leiras1 {
+    text-align: center;
+position: fixed;
+}
+
+.latin {
+    font-weight: lighter;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.class-kepek {
+    background-color: black;
+}
+
+html {
+    background-color: aqua;
+}
+
+.class-videos {
+
+    box-shadow: 0px 2px 2px black
+}
+
+img {
+    width: 200px;
+    box-shadow: 1 1 2px black;
+    margin: 7px;
+}   
